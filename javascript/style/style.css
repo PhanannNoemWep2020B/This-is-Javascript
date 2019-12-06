@@ -1,0 +1,16 @@
+body{
+    width: 90%;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-left: 250px;
+    margin-top: 400px;
+    font-size: 70px;
+    background-image: url("../../mother.jpg");
+}
+.row{
+    width: 90%;
+    color: cyan;
+    font-size: 160px;
+    margin-left: 50px;
+    margin-top: -750px;
+}
